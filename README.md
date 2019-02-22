@@ -1,4 +1,4 @@
-# angular-nest-grpc
+# angular-nest-grpc-auth
 
 Example full-stack Typescript project using:
 
